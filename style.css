@@ -251,8 +251,7 @@ header .nav-links a.active {
   color: white;
   background-image: url('./images/bg.png');
   background-size: cover;
-  background-position: center;
-  background-attachment: fixed; 
+  background-position: center; 
   
 }
 
@@ -335,7 +334,6 @@ header .nav-links a.active {
   text-align: center;
   background-image: url('./images/teambg.png');
   background-size: cover;
-  background-attachment: fixed; 
 }
 
 .team-header h1 {
@@ -823,7 +821,6 @@ section {
   background-image: url('./images/aboutbg.png');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   text-align: left; /* Align content to the left */
   width: 100%; /* Full width */
   max-width: 100%; /* Ensure no max-width restriction */
