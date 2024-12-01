@@ -7,7 +7,7 @@
 }
 body {
   font-family: 'Satoshi', sans-serif;
-  background: url('./images/teambg.png') no-repeat center center fixed; 
+  background: url('./images/teambg.png') no-repeat center center ; 
   background-size: cover; 
   color: white;
   height: 100vh;
