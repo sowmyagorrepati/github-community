@@ -129,7 +129,7 @@ header .nav-links a.active {
   text-align: center;
   height: 100vh;
   padding-top: 8rem; 
-  background: url('./images/homebg.png') no-repeat center center fixed; 
+  background: url('./images/homebg.png') no-repeat center center ; 
   background-size: cover;
 }
 
